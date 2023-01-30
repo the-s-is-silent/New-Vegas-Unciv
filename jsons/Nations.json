@@ -27,7 +27,7 @@
 		"hateNo": "If you really thought that I would agree to this, then you are even more stupid than you look.",
     
 		"uniqueName": "The House Always Wins",
-		"uniques": ["[+2 Production, +2 Science] from all [Gold] buildings", "[+1 Production, +1 Science] from every [Trading post]", "[+1 Production, +1 Science] from every [Great Improvement]", "[+25]% Production when constructing [Gold] buildings [in all cities]", "Receive free [Great Engineer] when you discover [Engineering]"],
+		"uniques": ["[+1 Production, +1 Science] from all [Gold] buildings", "[+1 Production, +1 Science] from every [Trading post]", "[+2 Production, +2 Science] from every [Great Improvement]", "[+25]% Production when constructing [Gold] buildings [in all cities]", "Receive free [Great Engineer] when you discover [Engineering]"],
 		"cities": ["New Vegas", "Freeside", "Westside", "Camp McCarran", "Fortification Hill", "Vault 21", "North Vegas", "South Vegas", "Henderson", "Primm", "Novac", "Goodsprings", "Jacobstown", "Nipton", "Vault 3", "Hidden Valley"],
 		"spyNames": ["Mr. New Vegas", "Cachino", "Nero", "Big Sal", "Benny", "Swank", "Courier 6", "Victor", "Marilyn", "Jane"]
 	}
