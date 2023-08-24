@@ -4,31 +4,37 @@
 		"leaderName": "Robert Edwin House",
 		"adjective": "Vegas",
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Domination",
-    
+		"preferredVictoryType": "Scientific",
+
 		"outerColor": [66, 189, 74],
 		"innerColor": [26, 47, 26],
-    
+
 		"startIntroPart1": "Salutations, Mr. Robert Edwin House, stalwart leader of New Vegas! With unparalleled intellect and ingenuity, you rose to power as a technological magnate in the years before the Great War - a conflict which you foresaw and extensively prepared for. Your calculations proved almost perfect, and it was thanks to your efforts that Las Vegas was spared from nuclear destruction. The chips were almost all in place to establish your beloved city and lead humanity into the future, save one very important chip – the Platinum Chip. And though you did not realize it, your centuries of planning and humanity's fate hinged entirely on one external factor you could not predict nor control – a Courier.",
 		"startIntroPart2": "Mr. House, Vegas calls for your leadership. Will you restore her glory and influence as an economic powerhouse, hosting visitors from the world over? Or will you send humanity into the stars, lighting her future with brilliant technology? Can you build a civilization to stand the test of time?",
-    
+
 		"introduction": "This meeting has been a long time coming. I am Robert Edwin House, President, CEO, and sole proprietor of the New Vegas Strip.",
 		"declaringWar": "You laid the foundation for my victory, so fine – I'll permit myself some freedom in how to deal with you. I'm sure the assassins will wait for you to show up.",
 		"attacked": "I haven't shown my hand – I've shown one card. I've given my enemies a single, provocative datum upon which to fixate. They have no idea what other cards I'm holding. It's a strong hand, believe me - I dealt it to myself.",
 		"defeated": "May there be a hell for you... a TARTARUS... bleak, unending...",
 		"tradeRequest": "I like to think that you have enough sense to make the right decision. The rewards for doing so are immense... as are the punishments for not doing so.",
-    
+
 		"neutralHello": "Success depends on forethought, dispassionate calculation of probabilities, accounting for every stray variable.",
 		"neutralYes": "Yes, it's allowed.",
 		"neutralNo": "Absolutely not!",
-    
-		"hateHello": "Sorry to deny you a moment of primate triumph, but you'll have to go elsewhere to sound your barbaric yawp.",
+
+		"hateHello": "Sorry to deny you a moment of private triumph, but you'll have to go elsewhere to sound your barbaric yawp.",
 		"hateYes": "Well, I accept your offer.",
 		"hateNo": "If you really thought that I would agree to this, then you are even more stupid than you look.",
-    
+
 		"uniqueName": "The House Always Wins",
-		"uniques": ["[+1 Production, +1 Science] from all [Gold] buildings", "[+1 Production, +1 Science] from every [Trading post]", "[+2 Production, +2 Science] from every [Great Improvement]", "[+25]% Production when constructing [Gold] buildings [in all cities]", "Receive free [Great Engineer] when you discover [Engineering]"],
-		"cities": ["New Vegas", "Freeside", "Westside", "Camp McCarran", "Fortification Hill", "Vault 21", "North Vegas", "South Vegas", "Henderson", "Summerlin", "Primm", "Novac", "Goodsprings", "Jacobstown", "Nipton", "Vault 3", "Hidden Valley", "Ripley", "Garnet", "Piute Point"],
+		"uniques": ["[+1 Production, +1 Science] from all [Gold] buildings",
+			"[+1 Production, +1 Science] from every [Trading post]",
+			"[+2 Production, +2 Science] from every [Great Improvement]",
+			"[+50]% Production when constructing [Gold] buildings [in all cities]",
+			"Receive free [Great Engineer] when you discover [Engineering]"],
+		"cities": ["New Vegas", "Freeside", "Westside", "Camp McCarran", "Fortification Hill", "Vault 21", "North Vegas",
+			"South Vegas", "Henderson", "Summerlin", "Primm", "Novac", "Goodsprings", "Jacobstown", "Nipton", "Vault 3",
+			"Hidden Valley", "Ripley", "Garnet", "Piute Point"],
 		"spyNames": ["Mr. New Vegas", "Cachino", "Nero", "Big Sal", "Benny", "Swank", "Courier 6", "Victor", "Marilyn", "Jane"]
 	}
 ]
