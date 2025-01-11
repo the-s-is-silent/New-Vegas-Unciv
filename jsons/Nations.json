@@ -5,6 +5,8 @@
 		"adjective": "Vegas",
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
+		"personality": "House",
+		"favoredReligion": "Followers of the Apocalypse",
 
 		"outerColor": [66, 189, 74],
 		"innerColor": [26, 47, 26],
@@ -27,14 +29,14 @@
 		"hateNo": "If you really thought that I would agree to this, then you are even more stupid than you look.",
 
 		"uniqueName": "The House Always Wins",
-		"uniques": ["[+1 Production, +1 Science] from all [Gold] buildings",
-			"[+1 Production, +1 Science] from every [Trading post]",
-			"[+2 Production, +2 Science] from every [Great Improvement]",
-			"[+50]% Production when constructing [Gold] buildings [in all cities]",
-			"Receive free [Great Engineer] when you discover [Engineering]"],
+		"uniqueText": "Gain 50 Gold instantly (modified by game speed) upon building a Gold producing building in any city. All cities gain +1 Production per 100 Gold in your treasury.",
+		"uniques": [
+			"[+1 Production] [in all cities] <for every [100] [Gold]>",
+			"Gain [50] [Gold] <(modified by game speed)> <upon constructing [Gold] [in all cities]>"
+		],
 		"cities": ["New Vegas", "Freeside", "Westside", "Camp McCarran", "Fortification Hill", "Vault 21", "North Vegas",
-			"South Vegas", "Henderson", "Summerlin", "Primm", "Novac", "Goodsprings", "Jacobstown", "Nipton", "Vault 3",
-			"Hidden Valley", "Ripley", "Garnet", "Piute Point"],
+			"South Vegas", "Henderson", "Summerlin", "Primm", "Novac", "Goodsprings", "Jacobstown", "Nipton", "Nelson",
+			"Sloan", "Vault 3", "Vault 19", "Cottonwood Cove", "Hidden Valley", "Ripley", "Garnet", "Piute Point"],
 		"spyNames": ["Mr. New Vegas", "Cachino", "Nero", "Big Sal", "Benny", "Swank", "Courier 6", "Victor", "Marilyn", "Jane"]
 	}
 ]
