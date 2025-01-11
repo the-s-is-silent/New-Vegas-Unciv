@@ -1,0 +1,37 @@
+[
+	{
+		"name": "House",
+		"production": 8,
+		"food": 5,
+		"gold": 10,
+		"science": 8,
+		"culture": 4,
+		"happiness": 7,
+		"faith": 2,
+		"military": 8,
+		"aggressive": 5,
+		"declareWar": 5,
+		"commerce": 7,
+		"diplomacy": 6,
+		"loyal": 5,
+		"expansion": 5,
+
+		"priorities": {
+			"Tradition": 9,
+			"Liberty": 3,
+			"Honor": 5,
+			"Commerce": 10,
+			"Patronage": 5,
+			"Piety": 0,
+			"Rationalism": 11,
+			"Freedom": 0,
+			"Autocracy": 10,
+			"Order": 0
+		},
+		"civilopediaText": [
+			{
+				"text": "Robert Edwin House, also known as Mr. House, was the founder, President and CEO of RobCo Industries, a vast computer and robotics corporation before the Great War. In 2281, he is the sole proprietor of the New Vegas Strip in the Mojave Wasteland."
+			}
+		]
+	}
+]
